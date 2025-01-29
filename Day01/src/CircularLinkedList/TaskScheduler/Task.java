@@ -1,15 +1,14 @@
 package CircularLinkedList.TaskScheduler;
 
 class Task {
-    int taskId;
+    int taskID;
     String taskName;
     int priority;
     String dueDate;
     Task next;
 
-    // Constructor for creating a new task
-    public Task(int taskId, String taskName, int priority, String dueDate) {
-        this.taskId = taskId;
+    public Task(int taskID, String taskName, int priority, String dueDate) {
+        this.taskID = taskID;
         this.taskName = taskName;
         this.priority = priority;
         this.dueDate = dueDate;
