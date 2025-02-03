@@ -1,4 +1,4 @@
-package StringBuilder;
+package StringBuilder.Problem1;
 
 // StringReverser.java (Logic Class)
 public class StringReverser {

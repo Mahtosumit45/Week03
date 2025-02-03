@@ -1,4 +1,4 @@
-package StringBuilder;
+package StringBuilder.Problem1;
 
 // MainClass.java (Main Method)
 import java.util.Scanner;
